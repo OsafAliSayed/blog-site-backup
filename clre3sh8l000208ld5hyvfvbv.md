@@ -3,7 +3,8 @@ title: "Hacking GitHub: How to do 1000 contributions worth one year in a second.
 datePublished: Sun Jan 14 2024 23:04:23 GMT+0000 (Coordinated Universal Time)
 cuid: clre3sh8l000208ld5hyvfvbv
 slug: hacking-github-how-to-do-1000-contributions-worth-one-year-in-a-second
-tags: github, python, automation, script, gitcommands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705321586886/106fd84d-4aca-4d8f-9298-f91b67b7a812.png
+tags: github, python, automation, script, frontend-development, backend-development, backend-developments, gitcommands
 
 ---
 
