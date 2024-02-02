@@ -3,6 +3,7 @@ title: "Optimize Your Blogging Workflow with GUI Blog: An Angular 17-Powered Int
 datePublished: Fri Feb 02 2024 19:15:59 GMT+0000 (Coordinated Universal Time)
 cuid: cls50zy9i000109l9enl3hory
 slug: optimize-your-blogging-workflow-with-gui-blog-an-angular-17-powered-interface-for-hashnode-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706901871904/9f60b790-1390-481a-9232-25e2f5345c18.png
 tags: hackathon, javascript, angularjs, web-development, apis, typescript, hashnode, tags, hashnodecommunity, hashnode-api, apihackathon
 
 ---
